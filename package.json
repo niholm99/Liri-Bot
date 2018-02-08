@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/niholm99/Liri-Bot#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.7"
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
   }
 }
